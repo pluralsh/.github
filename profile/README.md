@@ -8,7 +8,7 @@ Our server-side code is primarily Elixir and Golang, and our frontend stack is h
 * [Plural](https://github.com/pluralsh/plural/) – The main plural repository.
 * [Plural-artifacts](https://github.com/pluralsh/plural-artifacts/) – Where artifacts for applications deployable by plural live.
 * [Plural-cli](https://github.com/pluralsh/plural-cli/) – The plural CLI.
-* [Plural-console](https://github.com/pluralsh/plural-console/) – The plural admin console.
+* [Plural-console](https://github.com/pluralsh/console/) – The plural admin console.
 * [Plural Documentation](https://github.com/pluralsh/documentation) - Our public documentation repo.
 
 ## 👩‍💻 Useful resources
