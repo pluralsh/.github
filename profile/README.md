@@ -1,7 +1,4 @@
-## Hi, we're the team behind Plural.sh 👋
-<img width="1600" alt="GitHub-banner" src="https://user-images.githubusercontent.com/33042053/182926930-4fbe0053-e159-450a-9685-bc145cc10309.png">
-
-Plural will deploy open source applications on Kubernetes in your cloud using common standards like helm and terraform.
+Plural will deploy open source applications on Kubernetes in your cloud using common standards like Helm and Terraform.
 Our server-side code is primarily Elixir and Golang, and our frontend stack is heavily React based. We use Graphql for most of our APIs.
 
 ## 👑 Our repository organization
