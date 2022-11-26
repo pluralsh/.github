@@ -9,7 +9,7 @@ Our server-side code is primarily Elixir and Golang, and our frontend stack is h
 * [Plural-documentation](https://github.com/pluralsh/documentation) - Our public documentation repo.
 
 ## 👩‍💻 Useful resources
-* The full documentation is available on our [Documentation site](https://docs.plural.sh/).
+* [Documentation site](https://docs.plural.sh/) for all technical documentation.
 * [Discord](https://discord.gg/CKc2kfeXxQ) (For live discussions with the Plural team).
 * [Blog](https://www.plural.sh/blog/) (Check out the new content that we have published).
 * [Twitter](https://twitter.com/plural_sh) (For our latest news).
