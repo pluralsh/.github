@@ -1,4 +1,4 @@
-Plural will deploy open source applications on Kubernetes in your cloud using common standards like Helm and Terraform.
+Plural will deploy open source applications and proprietary services on Kubernetes in your cloud using common standards like Helm and Terraform.
 Our server-side code is primarily Elixir and Golang, and our frontend stack is heavily React based. We use Graphql for most of our APIs.
 
 ## 👑 Our repository organization
