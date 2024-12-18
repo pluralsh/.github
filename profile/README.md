@@ -5,7 +5,7 @@ Our server-side code is primarily Elixir and Golang, and our frontend stack is h
 ## 👑 Our repository organization
 * [Plural](https://github.com/pluralsh/plural/) – The main Plural repository, codebase for app.plural.sh and any apis related to it.
 * [Plural Console](https://github.com/pluralsh/console/) – The Core Control-Plane for all main Plural functionality, including our CD, k8s dashboard, and IaC management APIs.
-* [Deployment Operator](https://github.com/pluralsh/deploy-operator/) – The core Kubernetes agent that performs deployments, executes terraform and reverse-tunnels to Console to handle k8s api requests.
+* [Deployment Operator](https://github.com/pluralsh/deployment-operator/) – The core Kubernetes agent that performs deployments, executes terraform and reverse-tunnels to Console to handle k8s api requests.
 * [Documentation](https://github.com/pluralsh/documentation) - Our public documentation repo.
 * [CLI](https://github.com/pluralsh/plural-cli/) – The Plural CLI.
 * [Artifacts](https://github.com/pluralsh/plural-artifacts/) – Where OSS applications deployable by Plural live.
